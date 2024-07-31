@@ -2,7 +2,7 @@
 #'
 #' @param x A numeric vector
 #'
-#' @return Dataframe of norms
+#' @return Data frame of norms
 #' @importFrom stats quantile
 #' @export
 #'
